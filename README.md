@@ -42,3 +42,9 @@ Login system for multiple users
 Restricts actions based on user permissions
 
 Protects admin accounts from deletion
+
+👨‍💻 Author
+
+Ahmed Najib Ahmed Abdo
+🎓 Computer Engineering Student, Karabuk University
+💻 GitHub: ahmednajib
